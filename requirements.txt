@@ -1,0 +1,1 @@
+tensorflow==2.10.0\nkeras==2.10.0\nopencv-python==4.5.3.20210927\nscikit-learn==1.0.2\nmatplotlib==3.5.2\nseaborn==0.11.2\npillow==9.0.1\nnumpy==1.21.2\npyyaml==5.4.1\nroboflow==0.2.9\ntorch==1.11.0\ntorchvision==0.12.0\n
